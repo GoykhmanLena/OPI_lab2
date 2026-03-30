@@ -35,4 +35,8 @@ public class H implements D, C, J {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public float ff() {
+        return 0;
+    }
 }
