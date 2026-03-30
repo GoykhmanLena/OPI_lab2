@@ -11,4 +11,8 @@ public class C extends null {
     public void aa() {
         return;
     }
+
+    public String kk() {
+        return "No";
+    }
 }

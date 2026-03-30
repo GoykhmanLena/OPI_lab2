@@ -59,4 +59,8 @@ public class H extends null implements D, C, J {
     public String kk() {
         return "Hello world";
     }
+
+    public int cc() {
+        return 39;
+    }
 }
