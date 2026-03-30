@@ -1,4 +1,4 @@
-public class H implements D, C, J {
+public class H extends null implements D, C, J {
 
     private double g = 100.500;
 
@@ -37,14 +37,34 @@ public class H implements D, C, J {
     }
 
     public float ff() {
-        return 0;
+        return 3.14;
+    }
+
+    public long ac() {
+        return 111;
     }
 
     public byte oo() {
         return 2;
     }
 
-    public long ac() {
-        return 111;
+    public void ab() {
+        System.out.println();
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public long dd() {
+        return 33;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
     }
 }
