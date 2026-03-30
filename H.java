@@ -39,4 +39,8 @@ public class H implements D, C, J {
     public float ff() {
         return 0;
     }
+
+    public byte oo() {
+        return 2;
+    }
 }
