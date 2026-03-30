@@ -11,4 +11,8 @@ public class D extends null {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public long dd() {
+        return 100500;
+    }
 }
