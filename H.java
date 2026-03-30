@@ -1,4 +1,4 @@
-public class H implements D, C, J {
+public class H extends null implements D, C, J {
 
     private double g = 100.500;
 
@@ -46,5 +46,9 @@ public class H implements D, C, J {
 
     public long ac() {
         return 111;
+    }
+
+    public void ab() {
+        System.out.println();
     }
 }
