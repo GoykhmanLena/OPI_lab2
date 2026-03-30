@@ -55,4 +55,8 @@ public class H extends null implements D, C, J {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }

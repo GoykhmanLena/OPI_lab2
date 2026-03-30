@@ -7,4 +7,8 @@ public class J extends null {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public long ac() {
+        return 111;
+    }
 }

@@ -7,4 +7,8 @@ public class C extends null {
     public void ab() {
         return;
     }
+
+    public void aa() {
+        return;
+    }
 }

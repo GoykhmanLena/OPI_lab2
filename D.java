@@ -7,4 +7,8 @@ public class D extends null {
     public void ab() {
         System.out.println("\n");
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }
