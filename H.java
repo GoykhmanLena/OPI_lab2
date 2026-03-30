@@ -43,4 +43,8 @@ public class H implements D, C, J {
     public byte oo() {
         return 2;
     }
+
+    public long ac() {
+        return 111;
+    }
 }
